@@ -1,6 +1,6 @@
 # Heart Disease Predictor 🩺❤️
 
-Welcome to the Heart Disease Predictor project! This Python-based application leverages machine learning to predict the likelihood of heart disease based on various health parameters. Early prediction can be crucial for timely intervention and better health outcomes.
+Welcome to the Heart Disease Predictor project! This Python-based application leverages machine learning to predict the likelihood of heart disease based on various health parameters. Early prediction can be crucial for timely intervention and better health outcomes..
 
 🌟 Introduction
 This project provides a straightforward and efficient way to assess the risk of heart disease. By inputting relevant patient data, the system processes this information using a trained machine learning model to provide a prediction: whether the individual is likely to have heart disease or not. This tool aims to assist in preliminary risk assessment, though it's important to remember that it is not a substitute for professional medical diagnosis.
